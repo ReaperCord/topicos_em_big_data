@@ -38,7 +38,7 @@ O dashboard é dividido em 4 abas analíticas:
 ## 📁 Estrutura de Arquivos
 
 Para que o dashboard funcione corretamente, os arquivos de dados devem estar localizados em uma subpasta chamada `data`:
-
+```
 seu-projeto/
 │
 ├── data/ 
@@ -47,7 +47,7 @@ seu-projeto/
 │
 ├── app.py # O código-fonte do dashboard
 └── README.md # Este arquivo
-
+```
 
 ### Fontes de Dados
 
